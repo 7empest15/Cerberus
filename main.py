@@ -13,7 +13,7 @@ async def on_ready():
 
 @bot.command()
 async def botinfo(ctx):
-    await ctx.send("Bot crée par 7empest15 et tyrusvyto!")
+    await ctx.send("Bot crée par 7empest15!")
 
 
 @bot.command()
